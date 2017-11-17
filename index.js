@@ -26,6 +26,6 @@ function switchOnCharmFromTip(string){
   } else if ("generous" !== string) {
     return "Thank you."
   } else {
-    return "Bye."
+    return "Bye.";
   }
 }
