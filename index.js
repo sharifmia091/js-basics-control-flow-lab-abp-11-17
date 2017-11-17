@@ -20,12 +20,12 @@ function ternaryCheckCity(string){
   }
 }
 
-function switchOnCharmFromTip(){
+function switchOnCharmFromTip(string){
   if (generous= string){
     return "Thank you so much."
   } else if (generous != string) {
     return "Thank you."
   } else {
-    return "Bye." 
+    return "Bye."
   }
 }
